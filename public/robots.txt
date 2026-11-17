@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Do not index the brand asset directory
+Disallow: /brand/
+
+# Sitemap index will be added at launch
+# Sitemap: https://scalaryield.com/sitemap.xml
